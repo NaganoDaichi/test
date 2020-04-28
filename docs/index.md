@@ -6,3 +6,7 @@
 
 ![孔子]( nigaoe_koushi.png "ポップアップ文字") 
 
+[testページ](./test.html)
+
+ここからGoogleにアクセスして、孔子の知識を深めましょう→
+ [Googleへ](https://www.google.co.jp/) 
